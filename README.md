@@ -7,7 +7,7 @@ This project is a shopping site where users can browse products, add them to the
 
 ## Installation
 
-1. Clone the repository:
+1. Clone the repository:\n
        git clone https://github.com/Swikrit-Maskay/LaravelProject.git
    
 2. Navigate to the project directory:
